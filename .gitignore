@@ -1,0 +1,8 @@
+# Ignore the entire PyCharm configuration directory
+.idea/
+
+# Ignore Python compiled files and virtual environments
+__pycache__/
+*.pyc
+venv/
+.venv/
